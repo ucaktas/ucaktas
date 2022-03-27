@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is **Utku Can**, I'm electrical & electronics engineer 🎓 who loves coding and learning about new technologies.
+My name is **Utku Can**, I'm electrical & electronics engineer 🎓 who loves coding :computer: and learning about new technologies.
 
 💬 Ask me about anything
 
