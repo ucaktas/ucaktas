@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is **Utku Can**, I'm electrical & electronics engineer 🎓 who loves coding :computer: and learning about new technologies.
 
-💬 Ask me about anything
+💬 Ask me about anything.
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ucaktas.ucaktas&left_color=red&right_color=gray)        
 
