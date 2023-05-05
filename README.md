@@ -26,5 +26,4 @@ Here are some ideas to get you started:
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utkucanaktas&show_icons=true&locale=en" alt="utkucanaktas" /></p>
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ucaktas.ucaktas&left_color=red&right_color=gray)        
+       
